@@ -17,5 +17,8 @@ In this project, I created basic beginner-level websites using HTML and CSS to p
 
 - HTML  
 - CSS  
-- Figma  
+- Figma
+
+---
+
 If you want, I can make it more detailed or shorter—just let me know!
